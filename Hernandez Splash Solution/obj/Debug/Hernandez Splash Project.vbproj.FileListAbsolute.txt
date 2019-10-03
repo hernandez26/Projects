@@ -13,3 +13,7 @@ C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Splash Solution\Hernandez Sp
 C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Splash Solution\Hernandez Splash Solution\obj\Debug\Hernandez_Splash_Solution.Form1.resources
 C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Splash Solution\Hernandez Splash Solution\obj\Debug\Hernandez_Splash_Solution.Resources.resources
 C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Splash Solution\Hernandez Splash Solution\obj\Debug\Hernandez Splash Project.vbproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\GitHub\Projects\Hernandez Splash Solution\bin\Debug\Hernandez Splash Solution.exe.config
+C:\Users\Princess\Desktop\GitHub\Projects\Hernandez Splash Solution\obj\Debug\Hernandez Splash Solution.exe
+C:\Users\Princess\Desktop\GitHub\Projects\Hernandez Splash Solution\obj\Debug\Hernandez Splash Solution.xml
+C:\Users\Princess\Desktop\GitHub\Projects\Hernandez Splash Solution\obj\Debug\Hernandez Splash Solution.pdb

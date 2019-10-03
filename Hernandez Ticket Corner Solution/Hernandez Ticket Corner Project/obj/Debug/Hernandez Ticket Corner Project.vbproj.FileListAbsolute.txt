@@ -1,0 +1,22 @@
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.exe.config
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.vbprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez_Ticket_Corner_Project.HernandezTicketCorner.resources
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez_Ticket_Corner_Project.Resources.resources
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.vbproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.xml
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.exe
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.pdb
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.xml
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.exe
+C:\Users\Princess\Desktop\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.exe.config
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.exe
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.xml
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.exe
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\bin\Debug\Hernandez Ticket Corner Project.xml
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.vbprojResolveAssemblyReference.cache
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez_Ticket_Corner_Project.HernandezTicketCorner.resources
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez_Ticket_Corner_Project.Resources.resources
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Ticket Corner Solution\Hernandez Ticket Corner Project\obj\Debug\Hernandez Ticket Corner Project.vbproj.GenerateResource.Cache

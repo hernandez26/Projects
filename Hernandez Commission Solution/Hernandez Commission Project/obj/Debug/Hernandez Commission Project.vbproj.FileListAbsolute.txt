@@ -1,0 +1,22 @@
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.exe.config
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.exe
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.pdb
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.xml
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.vbprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez_Commission_Project.HC.resources
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez_Commission_Project.Resources.resources
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.vbproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.exe
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.xml
+C:\Users\Princess\Desktop\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.exe.config
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.exe
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.xml
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.exe
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\bin\Debug\Hernandez Commission Project.xml
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.vbprojResolveAssemblyReference.cache
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez_Commission_Project.HC.resources
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez_Commission_Project.Resources.resources
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Commission Solution\Hernandez Commission Project\obj\Debug\Hernandez Commission Project.vbproj.GenerateResource.Cache

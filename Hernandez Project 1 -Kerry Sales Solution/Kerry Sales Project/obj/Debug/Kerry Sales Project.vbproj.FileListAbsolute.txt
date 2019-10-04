@@ -1,0 +1,27 @@
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.pdb
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.xml
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.frmMain.resources
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.Resources.resources
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.GenerateResource.Cache
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+C:\Users\Princess\Desktop\VB2012\Chap11\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb
+C:\Users\Princess\Desktop\Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+C:\Users\Princess\Desktop\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+C:\Users\Princess\Desktop\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+C:\Users\Princess\Desktop\Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe.config
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.exe
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.pdb
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\bin\Debug\Kerry Sales Project.xml
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbprojResolveAssemblyReference.cache
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.frmMain.resources
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry_Sales_Project.Resources.resources
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.GenerateResource.cache
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.vbproj.CoreCompileInputs.cache
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.exe
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.xml
+C:\Users\Princess\Documents\COD\Fall 2017\Hernandez Project 1 -Kerry Sales Solution\Kerry Sales Project\obj\Debug\Kerry Sales Project.pdb

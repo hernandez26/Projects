@@ -1,0 +1,12 @@
+C:\Users\Princess\Desktop\DB2P\DB2P\bin\Debug\DB2P.exe.config
+C:\Users\Princess\Desktop\DB2P\DB2P\bin\Debug\DB2P.exe
+C:\Users\Princess\Desktop\DB2P\DB2P\bin\Debug\DB2P.pdb
+C:\Users\Princess\Desktop\DB2P\DB2P\obj\Debug\DB2P.exe
+C:\Users\Princess\Desktop\DB2P\DB2P\obj\Debug\DB2P.pdb
+C:\Users\Princess\Desktop\DB2P\DB2P\obj\Debug\DB2P.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Documents\COD\DB2P\DB2P\bin\Debug\DB2P.exe.config
+C:\Users\Princess\Documents\COD\DB2P\DB2P\obj\Debug\DB2P.exe
+C:\Users\Princess\Documents\COD\DB2P\DB2P\obj\Debug\DB2P.pdb
+C:\Users\Princess\Documents\COD\DB2P\DB2P\bin\Debug\DB2P.exe
+C:\Users\Princess\Documents\COD\DB2P\DB2P\bin\Debug\DB2P.pdb
+C:\Users\Princess\Documents\COD\DB2P\DB2P\obj\Debug\DB2P.csprojResolveAssemblyReference.cache

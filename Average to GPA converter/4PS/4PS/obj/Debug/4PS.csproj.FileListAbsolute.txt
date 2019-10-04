@@ -1,0 +1,12 @@
+C:\Users\Princess\Desktop\4PS\4PS\bin\Debug\4PS.exe.config
+C:\Users\Princess\Desktop\4PS\4PS\bin\Debug\4PS.exe
+C:\Users\Princess\Desktop\4PS\4PS\bin\Debug\4PS.pdb
+C:\Users\Princess\Desktop\4PS\4PS\obj\Debug\4PS.csprojResolveAssemblyReference.cache
+C:\Users\Princess\Desktop\4PS\4PS\obj\Debug\4PS.exe
+C:\Users\Princess\Desktop\4PS\4PS\obj\Debug\4PS.pdb
+C:\Users\Princess\Documents\COD\4PS\4PS\bin\Debug\4PS.exe.config
+C:\Users\Princess\Documents\COD\4PS\4PS\obj\Debug\4PS.exe
+C:\Users\Princess\Documents\COD\4PS\4PS\obj\Debug\4PS.pdb
+C:\Users\Princess\Documents\COD\4PS\4PS\bin\Debug\4PS.exe
+C:\Users\Princess\Documents\COD\4PS\4PS\bin\Debug\4PS.pdb
+C:\Users\Princess\Documents\COD\4PS\4PS\obj\Debug\4PS.csprojResolveAssemblyReference.cache

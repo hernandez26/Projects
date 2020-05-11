@@ -1,0 +1,12 @@
+-question 1) sudo du -hs /* | awk '{print $1}' | head -n 3
+
+-question 2) ps aux --sort -rss | head
+
+-question 3) sudo grep 'failed' /var/log/messages
+
+-question 4) awk '{print $2,$3}' weka.csv | sort -nk2
+
+-question 5) cut -d " " -f 5 /var/log/cloud-init.log
+
+-question 6) rpm -qa | wc -l
+

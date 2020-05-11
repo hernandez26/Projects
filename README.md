@@ -1,6 +1,4 @@
 # Projects
-This repository contains various projects that I have worked on. 
+This repository contains various projects and practice files that I have worked on.
 
-These projects were created using Visual Basic or C#
-
-Please read the summary within each project. I have written a description in each.
+The Majority of my files were written in Python, but some projects were created using Visual Basic or C#
